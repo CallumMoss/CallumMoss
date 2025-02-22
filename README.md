@@ -1,5 +1,3 @@
-# Hi there, I'm Callum! 👋
-
 ## 💻 About Me
 I am a final-year Computer Science (Software Engineering) student at Royal Holloway, University of London, graduating in 2025. My main interests lie in software development, robotics and deep learning.
 
@@ -10,9 +8,9 @@ I am a final-year Computer Science (Software Engineering) student at Royal Hollo
 - **Methodologies**: Test-Driven Development, Sprint-Based Workflows and Pair Programming
 
 ## 🚀 Favourite Projects
-- 🏆 **Chess Engine** (C++) – Implementing search algorithms for optimal move selection
-- 📷 **Image Classifier** (PyTorch) – Deep learning model for image recognition
-- 📦 **Asset Management System** (Java, Spring Boot, React) – Full-stack web app for inventory tracking
+- 🏆 **Chess Engine (Gambit)** (C++) – Capitalising on human fallibility using opponent modelling
+- 📷 **Image Classifier** (Python, PyTorch, NumPy, TensorFlow, Optuna) – Deep learning model for image recognition
+- 📦 **Asset Management System** (Java, Spring Boot, React, SQL, JDBC) – Full-stack web app for inventory tracking
 
 ## 🏆 Industry Experience
 - 📚 **LLM Security Researcher** – Researched defense strategies for backdoor attacks on large language models
