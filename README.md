@@ -19,6 +19,6 @@ I am a final-year Computer Science (Software Engineering) student at Royal Hollo
 -  📜 Developing my own programming language using ART (https://github.com/AJohnstone2007/ART)
 
 ## 📫 Connect with Me
-- 💼 [LinkedIn: CallumMoss](www.linkedin.com/in/callum-moss)
+- 💼 [LinkedIn: CallumMoss](https://linkedin.com/in/callum-moss)
 - 📧 [Email: callummoss.business@gmail.com](mailto:callummoss.business@gmail.com)
 - 🌐 [Portfolio: callummoss.github.io](https://callummoss.github.io)
