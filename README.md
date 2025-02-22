@@ -1,20 +1,3 @@
-## Hi there 👋
-
-<!--
-**CallumMoss/CallumMoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi there, I'm Callum! 👋
 
 ## 💻 About Me
@@ -35,7 +18,7 @@ I am a final-year Computer Science (Software Engineering) student at Royal Hollo
 - 📚 **LLM Security Researcher** – Researched defense strategies for backdoor attacks on large language models
 
 ## 🔭 Current Projects
--  Developing my own programming language using ART (https://github.com/AJohnstone2007/ART)
+-  📜 Developing my own programming language using ART (https://github.com/AJohnstone2007/ART)
 
 ## 📫 Connect with Me
 - 💼 [LinkedIn: CallumMoss](www.linkedin.com/in/callum-moss)
