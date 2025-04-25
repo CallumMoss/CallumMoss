@@ -8,7 +8,7 @@ I am a final-year Computer Science (Software Engineering) student at Royal Hollo
 - **Methodologies**: Test-Driven Development, Sprint-Based Workflows and Pair Programming
 
 ## 🚀 Favourite Projects
-- 🏆 [**Chess Engine (Gambit)**](https://github.com/CallumMoss/Gambit) (C++) – Capitalising on human fallibility using opponent modelling
+- 🏆 [**Chess Engine (Gambit)**](https://github.com/CallumMoss/Gambit-Chess-Engine) (C++) – Capitalising on human fallibility using opponent modelling
 - 📷 [**Image Classifier**](https://github.com/CallumMoss/Image_Classifier) (Python, PyTorch, NumPy, TensorFlow, Optuna) – Deep learning model for hand drawn digit inference
 - 📦 [**Asset Management System**](https://github.com/CallumMoss/Asset-Management-System) (Java, Spring Boot, React, SQL, JDBC) – Full-stack web app for company inventory tracking
 
