@@ -1,5 +1,5 @@
 ## 💻 About Me
-I am a final-year Computer Science (Software Engineering) student at Royal Holloway, University of London, graduating in 2025. My main interests lie in software development, robotics and deep learning.
+I graduated from Royal Holloway, University of London in July 2025, with a First-Class Bachelor's degree with Honours in Computer Science (Software Engineering). My main interests in Computer Science are: solving complex software engineering challenges, Machine/Deep Learning, Robotics / Intelligent Agents, Research, and Web Development.
 
 ## 🔧 Technologies & Tools
 - **Languages**: C/C++, Python, Java, SQL, JavaScript, HTML/CSS, SWI-Prolog and Haskell
@@ -9,8 +9,8 @@ I am a final-year Computer Science (Software Engineering) student at Royal Hollo
 
 ## 🚀 Favourite Projects
 - 🏆 [**Chess Engine (Gambit)**](https://github.com/CallumMoss/Gambit-Chess-Engine) (C++) – Capitalising on human fallibility using opponent modelling
-- 📷 [**Image Classifier**](https://github.com/CallumMoss/Image_Classifier) (Python, PyTorch, NumPy, TensorFlow, Optuna) – Deep learning model for hand drawn digit inference
 - 📦 [**Asset Management System**](https://github.com/CallumMoss/Asset-Management-System) (Java, Spring Boot, React, SQL, JDBC) – Full-stack web app for company inventory tracking
+- 📷 [**Image Classifier**](https://github.com/CallumMoss/Image_Classifier) (Python, PyTorch, NumPy, TensorFlow, Optuna) – Deep learning model for hand drawn digit inference
 
 ## 🏆 Industry Experience
 - 📚 [**LLM Security Researcher**](https://github.com/CallumMoss/Mitigating_Backdoor_Attacks_in_LLMs) – Researched defense strategies for backdoor attacks on large language models
